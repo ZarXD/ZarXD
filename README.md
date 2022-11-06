@@ -1,6 +1,8 @@
 <p align="center">
-<a href="//Instagram.com/fhdaprza"><img align="center" src="https://cardivo.vercel.app/api?name=ZarXD&description=Hi,I'am newbie. Welcome to my profile nice to meet you 👋&image=https://avatars.githubusercontent.com/zarxd&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@fhdaprza&github=ZarXD"/></a>
+<img src="https://avatars.githubusercontent.com/zarxd" width="150" height="150"/>
 </p>
+<h4 align='center'>Hallo bang👋 :wave:</h4>
+<p align='center'>Hi There, I'm ZarXD</p>
 
 <p align="center"><a href="https://github.com/ZarXD"><img src="https://github-readme-stats.vercel.app/api?username=ZarXD&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ZarXD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarXD&theme=radical&layout=compact"></a></p> 
